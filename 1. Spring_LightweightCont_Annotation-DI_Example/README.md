@@ -32,4 +32,3 @@ Para ilustrar el uso del framework Spring, y el ambiente de desarrollo para el u
 ![](img/4.png)
 ![](img/5.png)
 ![](img/6.png)
-![](img/7.png)
