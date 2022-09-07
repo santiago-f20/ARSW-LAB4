@@ -1,3 +1,3 @@
 # ARSW-LAB4
 
-### Santiago Fetecua Suarez - Juan David Martinez
+### Santiago Fetecua Suárez - Juan David Martinez
